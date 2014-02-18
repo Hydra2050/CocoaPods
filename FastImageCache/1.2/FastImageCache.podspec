@@ -16,7 +16,7 @@ A significant burden on performance for graphics-rich applications like Path is 
 
   s.platform     = :ios
   s.platform     = :ios, '6.0'
-  s.source       = { :git => "https://github.com/path/FastImageCache.git", :tag => "1.2" }
+  s.source       = { :git => "https://github.com/Hydra2050/FastImageCache.git", :tag => "1.2" }
 
   s.source_files  = 'FastImageCache'
   s.requires_arc = true
